@@ -32,8 +32,6 @@ Practica 10
 |  2  | ![Prueba 2 de mismo inicio en otra pantalla](https://github.com/srzzuares/dmi_moviedb_Practica10_200527_flutter/blob/main/asset/pruebas/p-2.png) |
 |  3  |     ![Prueba 3 de Tocar el boton drawer](https://github.com/srzzuares/dmi_moviedb_Practica10_200527_flutter/blob/main/asset/pruebas/p-3.png)     |
 
-# Practica9_200527
-
 ## Instalación
 
 Para ejecutar esta aplicación, sigue estos pasos:
